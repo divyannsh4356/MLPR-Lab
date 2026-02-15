@@ -1,4 +1,10 @@
 # Face Detection and Clustering using K-Means
+---
+
+## Author
+
+**Divyannsh Pincha**  
+UID: U20240181
 
 ## Overview
 
